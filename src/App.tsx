@@ -52,9 +52,9 @@ const connectorsByName: { [connectorName in ConnectorNames]: any } = {
   [ConnectorNames.Injected]: injected,
 }
 
-const CONTRACT_ADDRESS = '0x5148A559cFaaEC1A915ae41e00A8Dd2Fa17ba64f'
-const ERC20_CONTRACT_ADDRESS = '0x4d8d24968458af521ef02aefD95f161dF3f9Ea01'
-const ERC1155_CONTRACT_ADDRESS = '0x8227767903Fa90A90060E28a45506318E03997aD'
+const CONTRACT_ADDRESS = '0x6d88cBBD35E19958eFB4500f93D346c126bB7Df2'
+const ERC20_CONTRACT_ADDRESS = '0x7664e0A3862819C48A01648CE5139Ad25dAC12c0'
+const ERC1155_CONTRACT_ADDRESS = '0xD2f9F7C2CD1b8e1C91d89F271EF80eBFf75F183C'
 
 // Add background images in an array for easy access
 const bg = [bg0, bg1, bg2, bg3, bg4, bg5, bg6, bg7, bg8, bg9, bg10]
